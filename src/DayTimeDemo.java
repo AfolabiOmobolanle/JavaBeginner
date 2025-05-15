@@ -20,6 +20,8 @@ class DayTime implements TimeCalculator {
 
 // Main class to run the program
 public class DayTimeDemo {
+
+    
     public static void main(String[] args) {
         DayTime myDay = new DayTime();
         myDay.displayHours();
